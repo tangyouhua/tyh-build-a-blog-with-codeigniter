@@ -9,5 +9,10 @@
 - 文章分类：可添加、删除分类
 - 用户注册、登录
 
+## 部署
+### Windows
+- 安装 XAMPP
+- Git clone 代码到 `XAMPP目录\htdocs\ciblog\`
+
 ## 参考资料
 - "Build A CodeIgniter PHP App" 教程
